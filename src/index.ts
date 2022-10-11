@@ -1,5 +1,5 @@
 /**
- * The program calculates the
+ * The program calculates the energy that needs to be released
  *
  *
  * By: Seti Ngabo
